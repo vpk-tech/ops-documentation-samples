@@ -1,8 +1,7 @@
-This repository contains sample technical setup documentation and operational runbooks.
+## What this repository demonstrates
 
-Purpose:
-- Practice writing clear technical documentation
-- Demonstrate how I structure systems and troubleshooting steps
-- Support freelancing work for small teams and startups
+This repository contains clear, practical documentation and runbooks for repeatable IT and cloud operations.
 
-These documents are samples created for learning purposes.
+The goal is to reduce dependency on individuals, avoid repeated mistakes, and enable faster troubleshooting through simple, well-structured documentation.
+
+The focus is on clarity and real-world operations rather than theory or certifications.
